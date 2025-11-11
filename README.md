@@ -7,3 +7,5 @@ Link di repo di esercitazione e studio del codice
 - [abstract-animals] : https://github.com/Baldanz00/abstact-animals.git
 - [java-ciclabile] : https://github.com/Baldanz00/java-ciclabile.git
 - [java-esercizi-di-logica] : https://github.com/Baldanz00/java-esercizi-di-logica.git
+
+- [oop-pirateria-orientata-agli-oggetti] : https://github.com/Baldanz00/oop-pirateria-orientata-agli-oggetti.git
