@@ -6,3 +6,4 @@ Link di repo di esercitazione e studio del codice
 - [java-oop-shop] : https://github.com/Baldanz00/java-oop-shop.git
 - [abstract-animals] : https://github.com/Baldanz00/abstact-animals.git
 - [java-ciclabile] : https://github.com/Baldanz00/java-ciclabile.git
+- [java-esercizi-di-logica] : https://github.com/Baldanz00/java-esercizi-di-logica.git
